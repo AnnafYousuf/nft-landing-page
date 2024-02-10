@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url("./nft.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.main{
+    width: 400px;
+    margin: 100px;
+    color: #fff;
+}
+
+.navbar{
+margin: 20px;
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.btn-1:hover{
+    background-color: #fa920a;
+}
+
+.btn-1{
+    border-radius: 20px;
+    border: 1px solid rgb(255, 153, 0);
+
+}
+
+
+ul{
+    list-style-type: none;
+    margin-left: 300px;
+}
+li{
+     color: white;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 30px !important;
+    margin-top: 40px !important;
+    }
+  
+
+
+img{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+
+.btn-1{
+    margin-left: 300px !important;
+    margin-top: 40px !important;
+}
+.btn1{
+    background-color: #fa920a;
+}
+.btn1:hover{
+    background-color: #fff !important;
+}
+
+.btn2:hover{
+background-color: #fa920a !important;
+}
+
+
+.number-item>li{
+    display: flex !important;
+    display: inline-block !important;
+}
+.number-item{
+    font-size: 20px;
+    justify-content: center;
+    position: absolute;
+margin-left: -25px;
+margin-top: -80px;
+}
+.abc1{
+    color: #fa920a;
+}
+.abc2{
+    color: #fa920a;
+}
+.abc3{
+    color: #fa920a;
+}
+
+.footer{
+    text-align: center;
+    color: rgb(14, 232, 65);
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+
+
